@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "mlops-for-all", // Usually your GitHub org/user name.
-  projectName: "jlcan.github.io", // Usually your repo name.
+  organizationName: "jlcan", // Usually your GitHub org/user name.
+  projectName: "mlops-for-all", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
